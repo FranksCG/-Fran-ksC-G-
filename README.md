@@ -90,3 +90,16 @@ Convert - v. 转换，改变 Continent - n. 大陆 Contemplate - v. 沉思，仔
 ②: 慈善的基本主张是欣赏并发起帮助那些因意外事故或慢性疾病而陷入长期痛苦的人们的计划。我们需要用人们能够理解的比喻来支撑这些倡议，让人们充分理解这个事业并为之做出贡献。在发起慈善活动时，还应该注意人们可能对捐赠时间或金钱的担忧。通过解决这些问题并提供关于慈善活动运作的清晰信息，可以将更多人融入事业。成功的慈善组织能够设计出创新的筹款方式，在应对挑战时灵活变通，同时始终忠于其核心使命。
 
 ③: Contrive - v. 设计，谋划 Fundamental - adj. 基本的，基础的 Casualty - n. 事故，伤亡 Proposition - n. 主张，提议 Apprehensive - adj. 担心的，忧虑的 Analogy - n. 比喻，类比 Charity - n. 慈善机构 Chronic - adj. 慢性的，长期的 Estate - n. 财产，房地产 Underlie - v. 成为...的基础 Late - adj. 晚的，迟的 Assimilate - v. 吸收，融入 Appreciate - v. 感激，欣赏 Launch - v. 发起，推出】】
+## P7
+### 7.1
+【【①: In areas where people starve due to a lack of adequate resources, the solution is often strenuous and requires stubborn determination to achieve. Governments must allocate sufficient funds to restore basic needs and launch routine efforts to reproduce resources. To alter the situation, people must adhere to new practices and summon the courage to submit old ways of thinking. Rumors and misinformation can ruin even the most well-intentioned efforts, so it is important to be clear and transparent about the plan. Miracles are not necessary, but a solution that works must be found. With patience and perseverance, the situation can be improved and the people can once again sparkle with hope and vitality.
+
+②: 在那些因缺乏足够资源而饱受饥饿之地，解决方案通常需要强大的毅力和顽强的决心。政府必须分配足够的资金，以恢复基本需求并启动常规的资源复制工作。为了改变这种情况，人们必须坚持新的做法，放弃过去的思维方式。谣言和错误信息可能会破坏即使是最有良好意图的努力，因此必须清晰透明地阐明计划。奇迹并非必需，但必须找到一个有效的解决方案。通过耐心和毅力，情况可以得到改善，人们可以再次充满希望和活力。
+
+③: Starve - v. 挨饿，饿死 Strenuous - adj. 费力的，艰难的 Stubborn - adj. 固执的，顽固的 Submit - v. 提交，呈递 Summon - v. 召唤，传唤 Supreme - adj. 至高无上的，最高的 Adequate - adj. 充分的，足够的 Adhere - v. 坚持，遵守 Allocate - v. 分配，分派 Alter - v. 改变，修改 Minus - adj. 减去的，负的 Miracle - n. 奇迹，神迹 Reproduce - v. 复制，再生 Restore - v. 恢复，修复 Routine - n. 常规，例行程序 Ruin - v. 毁坏，毁灭 Rumor - n. 谣言，传闻 Sparkle - v. 闪烁，发光 Spray - n. 喷雾，飞沫 Solution - n. 解决方案】】
+### 7.2
+【【①: The airline corporation decided to detach its metropolitan affiliate in order to spur growth and increase profitability. This maneuver caused agony for many employees, who were apprehensive about the future. The corporation, however, had determined that this was a desirable move and would ultimately be a solution to their financial struggles. The decision to deprive the metropolitan affiliate of resources was not made lightly, but the corporation believed it was a necessary step to allocate adequate funding to their other ventures. This change will require a lot of hard work and may cause some temporary turmoil, but the corporation is confident in its ability to restore its financial health.
+
+②: 航空公司决定剥离都市附属公司以刺激增长并增加盈利能力。这一策略对许多员工来说带来了痛苦，他们对未来感到不安。然而，该公司认为这是一项值得的决定，最终将成为其财务困境的解决方案。剥夺都市附属公司的资源并非轻率之举，但该公司认为这是向其他投资分配足够资金的必要步骤。这种变化需要大量的努力，可能会引起一些暂时的动荡，但该公司对自己恢复财务健康的能力充满信心。
+
+③: Rein - v. 驾驭，控制 Spur - v. 刺激，激励 Temperament - n. 气质，性情 Maneuver - v. 操纵，调遣 Affiliate - n. 附属机构 Agony - n. 痛苦，折磨 Agitate - v. 使不安，鼓动 Airline - n. 航空公司 Corporation - n. 公司 Correlate - v. 相关，关联 Degenerate - adj. 退化的，堕落的 Deprive - v. 剥夺 Descend - v. 下降，降临 Design - n. 设计，构思 Desirable - adj. 值得拥有的，渴望得到的 Desperate - adj. 绝望的，拼命的 Detach - v. 分离，拆卸 Metropolitan - adj. 大都市的 Participate - v. 参与】】
